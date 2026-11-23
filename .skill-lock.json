@@ -1,0 +1,52 @@
+{
+  "version": 3,
+  "skills": {
+    "herdr": {
+      "source": "ogulcancelik/herdr",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/ogulcancelik/herdr.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "4c9a3f380d221fe02fa8c4d2d9ef94438fa1957f",
+      "installedAt": "2026-07-14T04:09:45.859Z",
+      "updatedAt": "2026-07-14T04:09:45.859Z"
+    },
+    "agent-device": {
+      "source": "callstack/agent-device",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/callstack/agent-device.git",
+      "ref": "main",
+      "skillPath": "skills/agent-device/SKILL.md",
+      "skillFolderHash": "6f7b3d066d45a8293d8294002df81b5f21b0ab35",
+      "installedAt": "2026-07-23T07:31:24.158Z",
+      "updatedAt": "2026-07-23T07:31:24.158Z"
+    },
+    "archify": {
+      "source": "tt-a1i/archify",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/tt-a1i/archify.git",
+      "skillPath": "archify/SKILL.md",
+      "skillFolderHash": "cff24583cbdc3b7c7313580f3fa0636ade2e5279",
+      "installedAt": "2026-09-03T01:31:20.204Z",
+      "updatedAt": "2026-09-03T01:31:20.204Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "antigravity",
+    "antigravity-cli",
+    "cline",
+    "codex",
+    "cursor",
+    "deepagents",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-code-cli",
+    "opencode",
+    "warp",
+    "zed",
+    "claude-code"
+  ]
+}
